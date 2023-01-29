@@ -1,4 +1,11 @@
-### Hi there 👋
+![sunset](https://user-images.githubusercontent.com/41244327/215312318-81dd0587-07a5-401f-a019-225f187f49c2.jpg)
+
+
+<h1 align="center"> Hi there 👋 </h1>
+
+
+
+
 
 <!--
 **ugurcancaykara/ugurcancaykara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
