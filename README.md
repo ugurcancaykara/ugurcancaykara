@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-I'm a 25 years old DevOps practitioner based in Istanbul. Due to my interest in this field, willing improving myself to learn new technologies and enjoys sharing knowledge. My main areas of interest are to specialize in distributed and high-available architectures and observing them. I enjoy meeting new people and new ideas. 
+I'm a 26 years old DevOps practitioner based in Istanbul. Due to my interest in this field, willing improving myself to learn new technologies and enjoys sharing knowledge. My main areas of interest are to specialize in distributed and high-available architectures and observing them. I enjoy meeting new people and new ideas. 
 
 - 🔭 I’m currently working on <b>CI/CD pipelines</b>, <b>K8s</b>, <b>Observability stacks</b> and <b>Cloud</b>
 - 🌱 I’m currently learning <b>Golang</b>
