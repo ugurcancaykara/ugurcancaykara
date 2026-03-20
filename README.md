@@ -1,27 +1,41 @@
-![sunset](https://user-images.githubusercontent.com/41244327/215312318-81dd0587-07a5-401f-a019-225f187f49c2.jpg)
+# Hey, I'm Ur 👋
 
+Platform Engineer & Software Developer.
 
-<h1 align="center"> Hi there 👋 </h1>
+I build cloud-native platforms, develop tools in **Go** and **C/eBPF**, and help engineering teams ship faster on Kubernetes.
 
-I'm a 27 years old DevOps practitioner based in Istanbul. Due to my interest in this field, willing improving myself to learn new technologies and enjoys sharing knowledge. My main areas of interest are to specialize in distributed and high-available architectures and observing them. I enjoy meeting new people and new ideas. 
+## What I Do
 
-- 🔭 I’m currently working on <b>CI/CD pipelines</b>, <b>K8s</b>, <b>Observability stacks</b> and <b>Cloud</b>
-- 🌱 I’m currently learning <b>Golang</b>
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about AWS and K8s
-- 📫 How to reach me: https://www.linkedin.com/in/ugurcancaykara/
+- **Platform Engineering** · Production Kubernetes platforms, AWS Landing Zones, and internal developer platforms at enterprise scale
+- **Cloud Migration** · Led migrations involving 3,000+ KubeVirt VMs, multi-account AWS architectures, and hybrid on-prem/cloud topologies
+- **Observability & FinOps** · Cost-aware, observable systems with Prometheus, OpenTelemetry, ClickHouse, and custom tooling
+- **eBPF & Low-Level Systems** · Kernel-level network observation and metrics collection for Kubernetes environments
+- **FinOps** · Closely follow the FinOps framework and write about Kubernetes cost optimization practices
 
-<!--
-**ugurcancaykara/ugurcancaykara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Community
 
-Here are some ideas to get you started:
+- **eBPF Turkey** · Founded the Turkish eBPF community 🐝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Work With
+
+`Kubernetes` `EKS` `OpenShift` `Go` `C` `eBPF` `Terraform` `Terragrunt` `ArgoCD` `Helm`
+`Crossplane` `Backstage` `ClickHouse` `PostgreSQL` `Kafka` `Prometheus` `OpenTelemetry`
+`AWS` `Azure` `GCP` `Cloudflare` `GitHub Actions` `Docker` `Linux`
+
+## Certifications
+
+- AWS Certified DevOps Engineer, Professional
+- Certified Kubernetes Administrator (CKA)
+- Kubernetes and Cloud Native Associate (KCNA)
+- Certified Administrator in SUSE Rancher
+- AWS Solutions Architect, Associate
+
+## Achievements
+
+🏆 **AWS Game Day Winner** · 1st Place among all AWS Partners, EMEA Region (2024)
+
+---
+
+29 · ☕ Platform nerd by day, DJ by night
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ugurcancaykara)
